@@ -2,7 +2,6 @@
 fun main() {
     /*
     * var operator = '+'
-
 if(##답안##) {
 	// 덧셈일 때
 } else if(##답안##) {
