@@ -11,6 +11,7 @@ class Basket(menu:Menu) {
     var isOrder: Int? = 0
     var isOrderChange: Int? = 0
     var deleteBeverage: Int? = 0
+    
 
     var basket = ArrayList<MutableList<Any>>()
     var basketCost = ArrayList<MutableList<Any>>()

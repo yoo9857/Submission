@@ -7,7 +7,7 @@ class Pay(basket: Basket) {
     var isReceipt: Int? = 0
     var inputCard: Int? = 0
     var total: Int = 0
-
+    
     init {
     }
 
